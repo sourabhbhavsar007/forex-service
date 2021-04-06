@@ -20,7 +20,7 @@ ony allows request from its premium or paid members, we are getting 403 Forbidde
 
 This exception gracefully in the code.
 
-Since, a lot of API's are blocked or restricted to trail users on external API (https://api.exchangeratesapi.io), it becomes 
+Since, a lot of API's are blocked or restricted to trial users on external API (https://api.exchangeratesapi.io), it becomes 
 very difficult to analyze trend of currency conversion rates in past dates and implement any other functionalities.
 
 
