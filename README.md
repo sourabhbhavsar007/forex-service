@@ -30,3 +30,6 @@ very difficult to analyze trend of currency conversion rates in past dates and i
 The above endpoint fetches all currency conversion rates which are listed on our external API (https://api.exchangeratesapi.io)
 
 We see all the currency conversion rates with the base as Euro.
+
+Screen Shot 2021-04-06 at 5.17.31 PM![image](https://user-images.githubusercontent.com/30754286/113706250-139e5280-96fc-11eb-9bd0-4705d593f978.png)
+
